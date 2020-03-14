@@ -5,3 +5,4 @@
 - You must start customizing the file mkdocs.yml with your information
 - You can change the looks of your website using mkdocs themes, you can find in the mkdocs.yml the names of the available themes
 - If you want to start from scratch, you can delete everything in this repository and push any other static website
+- this is a change for the sake of change
